@@ -33,7 +33,7 @@ Aunque esta traducción funciona con el mod ya instalado y con la traducción pa
 
 > ⚠️ Se recomienda una instalación limpia del mod para evitar conflictos.
 
-1. **Descarga** este repositorio o el archivo de traducción. ➜ *(📌 **En GitHub, haz clic en `Code` > `Download ZIP` para descargar.**)*
+1. **Descarga** este repositorio o el archivo de traducción. ➜ *(📌 **En GitHub, arriba clic en el botón verde `Code` > `Download ZIP` para descargar.**)*
 2. **Extrae** el contenido y sobrescribe la carpeta "Data" en la siguiente ruta:
 
 ```bash
