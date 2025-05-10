@@ -45,9 +45,9 @@ Aunque esta traducción funciona con el mod ya instalado y con la traducción pa
 - 🎮 **Medieval II: Total War** is a game developed by *Creative Assembly* and published by *SEGA*. All rights belong to them.
 - 🛠️ **Stainless Steel 6.4** is a community-created mod with contributions from multiple authors.
 
-La traducción al español del mod *Stainless Steel* hasta la versión 6.2 fue realizada por un grupo conocido como *La Hermandad*, quienes dedicaron su tiempo libre a traducir este extenso mod. La traducción restante para la versión 6.4 ha sido traducida por mí [@PascualMario](https://github.com/PascualMario) 
+La traducción al español del mod *Stainless Steel* hasta la versión 6.2 fue realizada por un grupo conocido como *La Hermandad*, quienes dedicaron su tiempo libre a traducir este extenso mod. La traducción restante de lo que quedaba para la versión 6.4 ha sido traducida por mí [@PascualMario](https://github.com/PascualMario) 
 
-Los principales colaboradores fueron en su día fueron:
+Los principales colaboradores fueron en su día:
 
 | **(HG)LordKoal** | **(HG)Super** | **(HG)Iliturgitano** | **(HG)Xaviar** | **penyetta**   |
 |------------------|---------------|----------------------|----------------|----------------|
